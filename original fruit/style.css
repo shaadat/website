@@ -1,0 +1,55 @@
+.header1{
+display: flex;
+padding-top: 30px;
+background-color: rgba(199, 190, 190, 0.89);
+}
+.t{
+    padding-left: 100px;
+}
+.h{
+    padding-left: 700px;
+}
+.f{
+    padding-left: 30px;
+}
+.s{
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 2px;
+}
+.q{
+}
+.middle{
+    text-align: center;
+    padding-top: 40px;
+   
+}
+.best{
+    padding-left: 100px;
+    padding-top: 40px;
+}
+.fruit{
+    padding-left: 100px;
+    display: flex;
+}
+.orange{
+    height: 100px;
+    width: auto;
+    padding-left: 200px;  
+}
+.buynow{
+    color: white;
+    background-color: black;
+    margin-left: 100px;
+}.buynow:hover{
+    background-color: rgb(63, 60, 60);
+}
+
+/* new css */
+#navvigation{
+    background-color: rgb(220, 238, 227);
+}
+#navigate{
+    padding-left: 100px;
+    padding-right: 100px;
+}

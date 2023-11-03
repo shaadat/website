@@ -1,0 +1,114 @@
+.header{
+    background-color: darkslategrey;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+.header1{
+    display: flex;
+    position: fixed;
+    background-color:darkslategrey ;
+    width: 100%;
+    top: 0;
+}
+.header1 .be{
+    color:white;
+    padding-left: 20px;
+    padding-right: 30px;
+    padding-top: 10px;
+    margin-right: auto;
+}
+.header .header2{
+    padding-left:20px;
+    color: white;
+    justify-content:space-evenly;
+    display: flex;
+    padding-top: 20px;
+   object-fit: contain;
+   padding-right: 10px;
+   margin-left: auto;
+}
+.header2 a{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+.info2{
+    padding-left: 70px;
+}
+.header2 :hover{
+    color: chartreuse;
+    text-transform: uppercase;
+}
+/* @media(max-width:768px) {
+    .header{
+        background-color: rgb(252, 14, 14);
+        display: flex;
+        color: white;
+        width: auto;
+    }
+} */
+.middle1{
+    color: white;
+    text-align: center;
+    background-color: darkcyan;
+    border: 70px solid darkslategrey;
+    /* width: 600px;
+    height: 350px; */
+    padding-top: 50px;
+    padding-bottom:100px;
+   
+    
+}
+.middle2{
+    padding-top: 50px;
+}
+.click{
+    color: white;
+    padding: 10px;
+    background-color: darkcyan;
+}
+.aboutus{
+    text-align: center;
+    border-bottom: 2px black solid;
+}
+.about{
+    background-color: darkcyan;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+/* .aboutus::before{
+    background: #000 none repeat scroll 0 0;
+    bottom: 9px;
+    content: "";
+    height: 2px;
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+.aboutus::after{
+    background: #ffa100 none repeat scroll 0 0;
+    bottom: 9px;
+    content: "";
+    height: 2px;
+    position: absolute;
+    right: 0;
+    width: 50%;
+    z-index: 999;
+} */
+.aboutus2{
+    padding-left: 200px;
+}
+.aboutus1{
+    display: flex;
+}
+.client{
+    border-top: 2px solid darkgreen;
+    padding-left: 70px;
+}
+.background{
+    padding-left: 30px;
+    padding-top: 80px;
+}
+.aboutus3{
+    padding-left: 100px;
+}
